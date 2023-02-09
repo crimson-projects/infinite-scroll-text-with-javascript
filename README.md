@@ -1,6 +1,6 @@
 <div align="center">
 
-# Infinite Scroll Text witn JavaScript | Crimson
+# Infinite Scroll Text with JavaScript | Crimson
 
 <img src="admin/base.png">
 
